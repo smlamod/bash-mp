@@ -1,0 +1,2 @@
+12/09/16 04:28:00 PM PHT : Log Start 
+12/09/16 04:28:00 PM PHT : batch.cfg missing 
